@@ -1,0 +1,4 @@
+Object-Recognition-Using-Convolutional-Neural-Networks-And-Flutter
+A Software developed by Nishanth Bhat and Aayush Kumaria that accepts an input via the Flutter app, sends the image to the Python backend which detects what object is present in the image using the 10 Layered Convolutional Neural Network and displays the output on the Flutter app
+
+Requires Python running at the time of uploading an image
